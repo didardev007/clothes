@@ -9,6 +9,6 @@ class BrandSeeder extends Seeder
 {
     public function run(): void
     {
-        //
+
     }
 }
